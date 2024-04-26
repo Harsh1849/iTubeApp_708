@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">iTube App</string>
+    <string name="check_internet">Check your internet connection</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_fullName">Enter Full Name</string>
+    <string name="enter_confirm_password">Enter Confirm Password</string>
+    <string name="please_enter_username">Please Enter Username</string>
+    <string name="please_enter_password">Please Enter Password</string>
+    <string name="please_enter_fullName">Please Enter Full Name</string>
+    <string name="please_enter_confirm_password">Please Enter Confirm Password</string>
+    <string name="enter_valid_password">Password should be minimum 8 characters</string>
+    <string name="password_not_match">Password and confirmation password do not match</string>
+    <string name="login">LOGIN</string>
+    <string name="signup">SIGN UP</string>
+    <string name="youtube_url">YouTube URL:</string>
+    <string name="enter_youtube_url">Please Enter YouTube URL</string>
+    <string name="enter_valid_youtube_url">Please Enter Valid YouTube URL</string>
+    <string name="play">PLAY</string>
+    <string name="add_to_playlist">ADD TO PLAYLIST</string>
+    <string name="my_playlist">MY PLAYLIST</string>
+</resources>
